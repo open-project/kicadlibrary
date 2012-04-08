@@ -1,0 +1,31 @@
+EESchema-DOCLIB  Version 2.0  Date: Sun 08 Apr 2012 11:15:08 PM CEST
+#
+$CMP AP1117
+D LDO linear regulator
+$ENDCMP
+#
+$CMP BAT
+D standard battery
+$ENDCMP
+#
+$CMP DS3234
+D real time clock
+$ENDCMP
+#
+$CMP PHOTOR
+D photoresistor
+$ENDCMP
+#
+$CMP RGB_LED_PLCC6
+D RGB LED with PLCC6 footprint
+$ENDCMP
+#
+$CMP TD62783
+D 8-channel source driver
+$ENDCMP
+#
+$CMP TLC5940PWP
+D 16-channel constant current sink
+$ENDCMP
+#
+#End Doc Library
