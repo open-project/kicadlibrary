@@ -39,6 +39,9 @@ Footprint List
   CR1216 coin cell holder
   (`datasheet <http://www.mouser.com/catalog/specsheets/BAT-HLD-012-SMT%20Diagram.PDF>`__)
 
+:DIP-18__600:
+  Dual inline package with 18 pins and 600mil spacing
+
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
 
