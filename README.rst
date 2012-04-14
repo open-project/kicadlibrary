@@ -4,6 +4,21 @@ open-project KiCad device and footprint library
 
 This is a collection of electronic device symbols and footprints for `KiCad <http://kicad.sourceforge.net>`_ which is used by `open-project.ch <http://open-project.ch>`_
 
+Device Design Rules
+-------------------
+:grid spacing: 50 mil
+:pin spacing: 0.1 inches
+:pin length: 0.1 inches
+:component width: 0.6 inches
+:component height: #pins * 0.1 + 0.2 inches
+:pin name text size: 0.04 inches
+:pin number text size: 0.04 inches
+:component name size: 0.05 inches
+:component placement: top, centered
+:field name size: 0.05 inches
+:field placement: button, centered
+:whole component placement: centered
+
 Device Part List
 ----------------
 :AP1117:
