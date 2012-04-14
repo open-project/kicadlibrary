@@ -66,6 +66,11 @@ Footprint List
 :TSSOP18:
   standard TSSOP-18 footprint
 
+:2PIN_S_SMD:
+  two SMD pads as prototyping area with 0805 components
+
+:4PIN_S_SMD:
+  four SMD pads as prototyping area with 0805 components
 
 License
 -------
