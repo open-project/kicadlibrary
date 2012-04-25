@@ -45,6 +45,9 @@ Footprint List
 :DIP-18__600:
   Dual inline package with 18 pins and 600mil spacing
 
+:DIP-6__600:
+  Dual inline package with 6 pins and 600mil spacing
+
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
 
