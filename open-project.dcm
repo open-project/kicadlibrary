@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Mon 11 Jun 2012 09:07:30 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Tue 12 Jun 2012 03:57:10 PM CEST
 #
 $CMP AP1117
 D LDO linear regulator
@@ -30,6 +30,10 @@ $ENDCMP
 #
 $CMP RGB_LED_PLCC6
 D RGB LED with PLCC6 footprint
+$ENDCMP
+#
+$CMP RN-41
+D class 1 bluetooth to serial adapter
 $ENDCMP
 #
 $CMP TD62783

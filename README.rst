@@ -25,11 +25,11 @@ Device Part List
   (`datasheet <http://www.onsemi.com/pub/Collateral/MC33375-D.PDF>`__)
 
 :MCP73831:
-  Single-cell Li-polymer charge management controller
+  single-cell Li-polymer charge management controller
   (`datasheet <http://ww1.microchip.com/downloads/en/DeviceDoc/21984e.pdf>`__)
 
 :MICRO-B_USB:
-  Micro-B USB connector
+  micro-B USB connector
 
 :PHOTOR:
   photoresistor
@@ -38,6 +38,10 @@ Device Part List
 :RGB_LED_PLCC6:
   RGB LED in PLCC6 case
   (`datasheet <http://www.led-studien.de/datasheet/5050T-3GN-MWN-RGB.pdf>`__)
+
+:RN-41:
+  Roving Networks class 1 bluetooth module
+  (`datasheet <http://www.mouser.com/catalog/specsheets/rn-41-ds-v3.3r%5B1%5D.pdf>`__)
 
 :TD62783:
   8-channel source driver
