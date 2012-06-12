@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sun 15 Apr 2012 04:22:11 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Mon 11 Jun 2012 09:07:30 PM CEST
 #
 $CMP AP1117
 D LDO linear regulator
@@ -10,6 +10,18 @@ $ENDCMP
 #
 $CMP DS3234
 D real time clock
+$ENDCMP
+#
+$CMP MC33375
+D LDO linear regulator
+$ENDCMP
+#
+$CMP MCP73831
+D Li-Polymer Charge Management Controller
+$ENDCMP
+#
+$CMP MICRO-B_USB
+D Micro-B USB connector
 $ENDCMP
 #
 $CMP PHOTOR

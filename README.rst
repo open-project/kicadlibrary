@@ -20,6 +20,17 @@ Device Part List
   real time clock
   (`datasheet <http://datasheets.maxim-ic.com/en/ds/DS3234.pdf>`__)
 
+:MC33375:
+  LDO linear volate regulator
+  (`datasheet <http://www.onsemi.com/pub/Collateral/MC33375-D.PDF>`__)
+
+:MCP73831:
+  Single-cell Li-polymer charge management controller
+  (`datasheet <http://ww1.microchip.com/downloads/en/DeviceDoc/21984e.pdf>`__)
+
+:MICRO-B_USB:
+  Micro-B USB connector
+
 :PHOTOR:
   photoresistor
   (`datasheet <http://www.mouser.com/catalog/specsheets/VT900S.pdf>`__)
