@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Tue 12 Jun 2012 03:57:10 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Fri 15 Jun 2012 09:21:33 PM CEST
 #
 $CMP AP1117
 D LDO linear regulator
@@ -6,6 +6,10 @@ $ENDCMP
 #
 $CMP BAT
 D standard battery
+$ENDCMP
+#
+$CMP DRV8830
+D low-volatege motor driver with I2C interface
 $ENDCMP
 #
 $CMP DS3234
@@ -26,6 +30,10 @@ $ENDCMP
 #
 $CMP PHOTOR
 D photoresistor
+$ENDCMP
+#
+$CMP RGB_LED_AVAGO
+D Avago RGB LED (ASMT-YTB2-0BB02)
 $ENDCMP
 #
 $CMP RGB_LED_PLCC6

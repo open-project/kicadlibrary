@@ -16,6 +16,10 @@ Device Part List
 :DIL28:
   standard DIL28 connector
 
+:DRV8830:
+  low-volatege motor driver with I2C interface
+  (`datasheet <http://www.ti.com/lit/ds/symlink/drv8830.pdf>`__)
+
 :DS3234:
   real time clock
   (`datasheet <http://datasheets.maxim-ic.com/en/ds/DS3234.pdf>`__)
@@ -34,6 +38,10 @@ Device Part List
 :PHOTOR:
   photoresistor
   (`datasheet <http://www.mouser.com/catalog/specsheets/VT900S.pdf>`__)
+
+:RGB_LED_AVAGO:
+  Avago RGB LED (ASMT-YTB2-0BB02)
+  (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
 
 :RGB_LED_PLCC6:
   RGB LED in PLCC6 case
