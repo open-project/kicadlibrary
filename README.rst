@@ -17,7 +17,7 @@ Device Part List
   standard DIL28 connector
 
 :DRV8830:
-  low-volatege motor driver with I2C interface
+  low-voltage motor driver with I2C interface
   (`datasheet <http://www.ti.com/lit/ds/symlink/drv8830.pdf>`__)
 
 :DS3234:
@@ -25,7 +25,7 @@ Device Part List
   (`datasheet <http://datasheets.maxim-ic.com/en/ds/DS3234.pdf>`__)
 
 :MC33375:
-  LDO linear volate regulator
+  LDO linear voltage regulator
   (`datasheet <http://www.onsemi.com/pub/Collateral/MC33375-D.PDF>`__)
 
 :MCP73831:

@@ -9,7 +9,7 @@ D standard battery
 $ENDCMP
 #
 $CMP DRV8830
-D low-volatege motor driver with I2C interface
+D low-voltage motor driver with I2C interface
 $ENDCMP
 #
 $CMP DS3234
