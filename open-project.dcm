@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Fri 15 Jun 2012 09:21:33 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Sat 16 Jun 2012 10:51:17 AM CEST
 #
 $CMP AP1117
 D LDO linear regulator
@@ -6,6 +6,11 @@ $ENDCMP
 #
 $CMP BAT
 D standard battery
+$ENDCMP
+#
+$CMP CONN_SERIAL_SF
+D Sparkfun compatible UART interface connector
+K CONN
 $ENDCMP
 #
 $CMP DRV8830

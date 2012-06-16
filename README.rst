@@ -13,6 +13,9 @@ Device Part List
 :BAT:
   standard battery
 
+:CONN_SERIAL_SF:
+  Sparkfun compatible UART interface connector
+
 :DIL28:
   standard DIL28 connector
 
