@@ -77,6 +77,12 @@ Footprint List
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
 
+:S_JUMPER_2:
+  two pin SMD solder jumper
+
+:S_JUMPER_3:
+  three pin SMD solder jumper
+
 :TSSOP-28-PWP:
   TSSOP-28 footprint with ground plane
 
