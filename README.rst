@@ -83,6 +83,9 @@ Footprint List
 :S_JUMPER_3:
   three pin SMD solder jumper
 
+:SW_PUSH_SMD:
+  SMD push button (`datasheet <http://www.mouser.com/catalog/specsheets/MS-100612.pdf>`__)
+
 :TSSOP-28-PWP:
   TSSOP-28 footprint with ground plane
 
