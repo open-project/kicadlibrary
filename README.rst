@@ -74,6 +74,10 @@ Footprint List
 :DIP-6__600:
   Dual inline package with 6 pins and 600mil spacing
 
+:RGB_LED_AVAGO:
+  Avago RGB LED (ASMT-YTB2-0BB02)
+  (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
+
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
 
