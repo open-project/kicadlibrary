@@ -74,6 +74,9 @@ Footprint List
 :DIP-6__600:
   Dual inline package with 6 pins and 600mil spacing
 
+:PINHEAD1-6_SMD:
+  standard 6x1 SMD pin header with 0.1" pitch
+
 :RGB_LED_AVAGO:
   Avago RGB LED (ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
