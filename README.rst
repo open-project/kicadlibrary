@@ -16,6 +16,10 @@ Device Part List
 :CONN_SERIAL_SF:
   Sparkfun compatible UART interface connector
 
+:CRYSTAL_ABM3C:
+  ceramic SMD ultra miniature quarz crystal (Abracon ABM3C series)
+  (`datasheet <http://www.abracon.com/Resonators/abm3c.pdf>`__)
+
 :DIL28:
   standard DIL28 connector
 
