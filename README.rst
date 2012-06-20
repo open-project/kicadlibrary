@@ -78,6 +78,10 @@ Footprint List
 :DIP-6__600:
   Dual inline package with 6 pins and 600mil spacing
 
+:MICRO-B_USB:
+  micro-B USB connector
+  (`datasheet <http://www.mouser.com/catalog/specsheets/10118192AC.pdf>`__)
+
 :PINHEAD1-6_SMD:
   standard 6x1 SMD pin header with 0.1" pitch
 
