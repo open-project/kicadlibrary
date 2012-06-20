@@ -86,6 +86,9 @@ Footprint List
   MSOP-10 footprint with ground plane for heat dissipation (PowerPad)
   (`datasheet <http://www.ti.com/lit/ds/symlink/drv8830.pdf>`__)
 
+:PIN_ARRAY_3x2_LOCK:
+  standard 3x2 through-hole pin array with tight fit
+
 :PINHEAD1-6_SMD:
   standard 6x1 SMD pin header with 0.1" pitch
 
