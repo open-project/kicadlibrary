@@ -68,6 +68,10 @@ Footprint List
   CR1216 coin cell holder
   (`datasheet <http://www.mouser.com/catalog/specsheets/BAT-HLD-012-SMT%20Diagram.PDF>`__)
 
+:CONN_JST-2_SMD:
+  two pin JST right angle SMD connector (used by Sparkfun as battery connector)
+  (`datasheet <http://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf>`__)
+
 :DIP-18__600:
   Dual inline package with 18 pins and 600mil spacing
 
