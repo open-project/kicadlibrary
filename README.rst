@@ -72,6 +72,10 @@ Footprint List
   two pin JST right angle SMD connector (used by Sparkfun as battery connector)
   (`datasheet <http://www.sparkfun.com/datasheets/Prototyping/Connectors/JST-Horizontal.pdf>`__)
 
+:CRYSTAL_ABM3C:
+  ceramic SMD ultra miniature quarz crystal (Abracon ABM3C series)
+  (`datasheet <http://www.abracon.com/Resonators/abm3c.pdf>`__)
+
 :DIP-18__600:
   Dual inline package with 18 pins and 600mil spacing
 
