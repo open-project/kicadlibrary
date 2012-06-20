@@ -82,6 +82,10 @@ Footprint List
   micro-B USB connector
   (`datasheet <http://www.mouser.com/catalog/specsheets/10118192AC.pdf>`__)
 
+:MSOP10-0.5-PWP:
+  MSOP-10 footprint with ground plane for heat dissipation (PowerPad)
+  (`datasheet <http://www.ti.com/lit/ds/symlink/drv8830.pdf>`__)
+
 :PINHEAD1-6_SMD:
   standard 6x1 SMD pin header with 0.1" pitch
 
@@ -102,7 +106,7 @@ Footprint List
   SMD push button (`datasheet <http://www.mouser.com/catalog/specsheets/MS-100612.pdf>`__)
 
 :TSSOP-28-PWP:
-  TSSOP-28 footprint with ground plane
+  TSSOP-28 footprint with ground plane for heat dissipation (PowerPad)
 
 :TSSOP18:
   standard TSSOP-18 footprint
