@@ -68,6 +68,15 @@ Device Part List
 
 Footprint List
 --------------
+:1PIN_S_SMD:
+  one SMD pad as prototyping area with 0805 components
+
+:2PIN_S_SMD:
+  two SMD pads as prototyping area with 0805 components
+
+:4PIN_S_SMD:
+  four SMD pads as prototyping area with 0805 components
+
 :BAT_CR1216:
   CR1216 coin cell holder
   (`datasheet <http://www.mouser.com/catalog/specsheets/BAT-HLD-012-SMT%20Diagram.PDF>`__)
@@ -121,12 +130,6 @@ Footprint List
 
 :TSSOP18:
   standard TSSOP-18 footprint
-
-:2PIN_S_SMD:
-  two SMD pads as prototyping area with 0805 components
-
-:4PIN_S_SMD:
-  four SMD pads as prototyping area with 0805 components
 
 Device Design Rules
 -------------------
