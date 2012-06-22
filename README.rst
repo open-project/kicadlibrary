@@ -123,7 +123,12 @@ Footprint List
   three pin SMD solder jumper
 
 :SW_PUSH_SMD:
-  SMD push button (`datasheet <http://www.mouser.com/catalog/specsheets/MS-100612.pdf>`__)
+  SMD push button
+  (`datasheet <http://www.mouser.com/catalog/specsheets/MS-100612.pdf>`__)
+
+:SWITCH_ALPS_SSSS8:
+  miniature horizontal two position SMD switch (ALPS SSSS8 series)
+  (`datasheet <http://www.alps.com/WebObjects/catalog.woa/E/HTML/Switch/Slide/SSSS8/SSSS810701.html>`__)
 
 :TSSOP-28-PWP:
   TSSOP-28 footprint with ground plane for heat dissipation (PowerPad)
