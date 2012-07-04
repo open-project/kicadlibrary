@@ -1,4 +1,4 @@
-PCBNEW-LibModule-V1  Thu 05 Jul 2012 12:05:49 AM CEST
+PCBNEW-LibModule-V1  Thu 05 Jul 2012 12:07:56 AM CEST
 # encoding utf-8
 Units deci-mils
 $INDEX
@@ -457,12 +457,12 @@ Po -1000 -3000
 $EndPAD
 $EndMODULE DIP-6__600
 $MODULE MICRO-B_USB
-Po 0 0 0 15 4FE38F44 00000000 ~~
+Po 0 0 0 15 4FF4BEB9 00000000 ~~
 Li MICRO-B_USB
 Sc 0
 AR 
 Op 0 0 0
-T0 0 -2441 600 600 0 120 N V 21 N "MICRO-B_USB"
+T0 0 -2300 300 300 0 75 N V 21 N "MICRO-B_USB"
 T1 -39 1063 600 600 0 120 N V 21 N "VAL**"
 DS -1575 394 -1575 472 39 21
 DS 1575 394 1575 472 39 21
@@ -504,6 +504,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -511 -1624
+.LocalClearance 80
 $EndPAD
 $PAD
 Sh "2" R 157 530 0 0 0
@@ -511,6 +512,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po -255 -1624
+.LocalClearance 80
 $EndPAD
 $PAD
 Sh "3" R 157 530 0 0 0
@@ -518,6 +520,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 0 -1624
+.LocalClearance 80
 $EndPAD
 $PAD
 Sh "4" R 157 530 0 0 0
@@ -525,6 +528,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 255 -1624
+.LocalClearance 80
 $EndPAD
 $PAD
 Sh "5" R 157 530 0 0 0
@@ -532,6 +536,7 @@ Dr 0 0 0
 At SMD N 00888000
 Ne 0 ""
 Po 511 -1624
+.LocalClearance 80
 $EndPAD
 $PAD
 Sh "" R 825 629 0 0 0
