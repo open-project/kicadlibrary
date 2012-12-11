@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Wed 20 Jun 2012 11:30:26 PM CEST
+EESchema-DOCLIB  Version 2.0  Date: Tue 11 Dec 2012 03:08:32 PM CET
 #
 $CMP AP1117
 D LDO linear regulator
@@ -59,6 +59,10 @@ $ENDCMP
 #
 $CMP TLC5940PWP
 D 16-channel constant current sink
+$ENDCMP
+#
+$CMP TLC5947PWP
+D 24-channel constant current sink
 $ENDCMP
 #
 #End Doc Library

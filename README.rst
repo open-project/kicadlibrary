@@ -66,6 +66,10 @@ Device Part List
   16-channel constant current sink driver
   (`datasheet <http://www.ti.com/lit/gpn/tlc5940>`__)
 
+:TLC5947PWP:
+  24-channel constant current sink driver
+  (`datasheet <http://www.ti.com/lit/gpn/tlc5947>`__)
+
 Footprint List
 --------------
 :1PIN_S_SMD:
@@ -132,6 +136,9 @@ Footprint List
 
 :TSSOP-28-PWP:
   TSSOP-28 footprint with ground plane for heat dissipation (PowerPad)
+
+:TSSOP-32-PWP:
+  TSSOP-32 footprint with ground plane for heat dissipation (PowerPad)
 
 :TSSOP18:
   standard TSSOP-18 footprint
