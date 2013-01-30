@@ -2,7 +2,7 @@
 open-project.ch KiCad device and footprint library
 ==================================================
 
-This is a collection of electronic device symbols and footprints for `KiCad <http://kicad.sourceforge.net>`_ which is used by `open-project.ch <http://open-project.ch>`_
+This is a collection of electronic device symbols and footprints for `KiCad <http://www.kicad-pcb.org>`_ which is used by `open-project.ch <http://open-project.ch>`_
 
 Device Part List
 ----------------
