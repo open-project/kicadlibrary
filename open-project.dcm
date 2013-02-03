@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sat 26 Jan 2013 10:56:00 PM CET
+EESchema-DOCLIB  Version 2.0  Date: Sun 03 Feb 2013 10:37:36 PM CET
 #
 $CMP AP1117
 D LDO linear regulator
@@ -43,6 +43,10 @@ $ENDCMP
 #
 $CMP RGB_LED_AVAGO
 D Avago RGB LED (ASMT-YTB2-0BB02)
+$ENDCMP
+#
+$CMP RGB_LED_OSRAM_STD
+D Osram Standard RGB LED (LRTB GFTG/GFTM)
 $ENDCMP
 #
 $CMP RGB_LED_PLCC6

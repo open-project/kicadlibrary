@@ -50,6 +50,10 @@ Device Part List
   Avago RGB LED (ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
 
+:RGB_LED_OSRAM_STD:
+  Osram RGB LED with standard brightness (e.g. LRTB GFTG)
+  (`http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf`__)
+
 :RGB_LED_PLCC6:
   RGB LED in PLCC6 case
   (`datasheet <http://www.led-studien.de/datasheet/5050T-3GN-MWN-RGB.pdf>`__)
@@ -116,6 +120,10 @@ Footprint List
 :RGB_LED_AVAGO:
   Avago RGB LED (ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
+
+:RGB_LED_OSRAM_STD:
+  Osram RGB LED with standard brightness (e.g. LRTB GFTG)
+  (`http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf`__)
 
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
