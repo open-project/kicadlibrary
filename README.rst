@@ -52,14 +52,14 @@ Device Part List
 
 :RGB_LED_OSRAM_STD:
   Osram RGB LED with standard brightness (e.g. LRTB GFTG)
-  (`http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf`__)
+  (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
 
 :RGB_LED_PLCC6:
   RGB LED in PLCC6 case
   (`datasheet <http://www.led-studien.de/datasheet/5050T-3GN-MWN-RGB.pdf>`__)
 
-:RN-41:
-  Roving Networks class 1 bluetooth module
+:RN-41 / RN-42:
+  Roving Networks class 1 / class 2 bluetooth module
   (`datasheet <http://www.mouser.com/catalog/specsheets/rn-41-ds-v3.3r%5B1%5D.pdf>`__)
 
 :TD62783:
@@ -123,7 +123,7 @@ Footprint List
 
 :RGB_LED_OSRAM_STD:
   Osram RGB LED with standard brightness (e.g. LRTB GFTG)
-  (`http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf`__)
+  (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
 
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
