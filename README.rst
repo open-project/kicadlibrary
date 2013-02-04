@@ -47,12 +47,16 @@ Device Part List
   (`datasheet <http://www.mouser.com/catalog/specsheets/VT900S.pdf>`__)
 
 :RGB_LED_AVAGO:
-  Avago RGB LED (ASMT-YTB2-0BB02)
+  Avago RGB LED (e.g. ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
 
 :RGB_LED_OSRAM_STD:
-  Osram RGB LED with standard brightness (e.g. LRTB GFTG)
+  Osram standard brightness RGB LED (e.g. LRTB GFTG)
   (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
+
+:RGB_LED_SEOUL:
+  Seoul Semiconductor RGB LED (e.g. SFT825N-S)
+  (`datasheet <http://www.seoulsemicon.com/_Upload/ac_down.asp?Filename=SFT825N-S.pdf>`__)
 
 :RGB_LED_PLCC6:
   RGB LED in PLCC6 case
@@ -118,15 +122,19 @@ Footprint List
   standard 6x1 SMD pin header with 0.1" pitch
 
 :RGB_LED_AVAGO:
-  Avago RGB LED (ASMT-YTB2-0BB02)
+  Avago RGB LED in 3.4x2.8mm housing (e.g. ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
 
 :RGB_LED_OSRAM_STD:
-  Osram RGB LED with standard brightness (e.g. LRTB GFTG)
+  Osram standard brightness RGB LED in 3.4x3.4mm housing (e.g. LRTB GFTG)
   (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
 
+:RGB_LED_SEOUL:
+  Seoul Semiconductor RGB LED in 3.5x2.8mm housing (SFT825N-S)
+  (`datasheet <http://www.seoulsemicon.com/_Upload/ac_down.asp?Filename=SFT825N-S.pdf>`__)
+
 :RGB_LED_PLCC6:
-  PLCC6 footprint for RGB LED
+  PLCC6 footprint for RGB LED in 5x5mm housing
 
 :RN-41:
   Roving Networks class 1 (RN-41) or class 2 (RN-42) bluetooth module

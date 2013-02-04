@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Sun 03 Feb 2013 10:37:36 PM CET
+EESchema-DOCLIB  Version 2.0  Date: Mon 04 Feb 2013 09:56:11 PM CET
 #
 $CMP AP1117
 D LDO linear regulator
@@ -51,6 +51,10 @@ $ENDCMP
 #
 $CMP RGB_LED_PLCC6
 D RGB LED with PLCC6 footprint
+$ENDCMP
+#
+$CMP RGB_LED_SEOUL
+D Seoul Semiconductor RGB LED (SFT825N-S)
 $ENDCMP
 #
 $CMP RN-41
