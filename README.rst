@@ -58,8 +58,8 @@ Device Part List
   RGB LED in PLCC6 case
   (`datasheet <http://www.led-studien.de/datasheet/5050T-3GN-MWN-RGB.pdf>`__)
 
-:RN-41 / RN-42:
-  Roving Networks class 1 / class 2 bluetooth module
+:RN-41:
+  Roving Networks class 1 (RN-41) or class 2 (RN-42) bluetooth module
   (`datasheet <http://www.mouser.com/catalog/specsheets/rn-41-ds-v3.3r%5B1%5D.pdf>`__)
 
 :TD62783:
@@ -127,6 +127,10 @@ Footprint List
 
 :RGB_LED_PLCC6:
   PLCC6 footprint for RGB LED
+
+:RN-41:
+  Roving Networks class 1 (RN-41) or class 2 (RN-42) bluetooth module
+  (`datasheet <http://www.mouser.com/catalog/specsheets/rn-41-ds-v3.3r%5B1%5D.pdf>`__)
 
 :S_JUMPER_2:
   two pin SMD solder jumper
