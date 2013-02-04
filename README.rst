@@ -190,6 +190,7 @@ Author
 ---------
 Tobias Schmidt <tobs@open-project.ch>
 
+.. image:: https://cruel-carlota.pagodabox.com/06d05d1336f778f581a2ff80b5ba55a7
+    :alt: githalytics.com
+    :target: http://githalytics.com/open-project/kicadlibrary
 
-  .. _open-project.ch: http://open-project.ch
-  .. _kicad: http://kicad.sourceforge.net
