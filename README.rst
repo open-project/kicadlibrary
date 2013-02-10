@@ -4,6 +4,8 @@ open-project.ch KiCad device and footprint library
 
 This is a collection of electronic device symbols and footprints for `KiCad <http://www.kicad-pcb.org>`_ which is used by `open-project.ch <http://open-project.ch>`_
 
+**This branch is for OLDER versions of KiCAD which use deci-mills as internal units instead of mm**
+
 Device Part List
 ----------------
 :AP1117:
