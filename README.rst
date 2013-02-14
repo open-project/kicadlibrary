@@ -55,7 +55,7 @@ Device Part List
 
 :RGB_LED_OSRAM_STD:
   Osram standard brightness RGB LED (e.g. LRTB GFTG)
-  (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
+  (`datasheet <http://catalog.osram-os.com/catalogue/catalogue.do;?act=downloadFile&favOid=02000001000079dd000200b6>`__)
 
 :RGB_LED_SEOUL:
   Seoul Semiconductor RGB LED (e.g. SFT825N-S)
@@ -130,7 +130,7 @@ Footprint List
 
 :RGB_LED_OSRAM_STD:
   Osram standard brightness RGB LED in 3.4x3.4mm housing (e.g. LRTB GFTG)
-  (`datasheet <http://www.mouser.com/ds/2/311/RTB_GFTG_Pb_free-63585.pdf>`__)
+  (`datasheet <http://catalog.osram-os.com/catalogue/catalogue.do;?act=downloadFile&favOid=02000001000079dd000200b6>`__)
 
 :RGB_LED_SEOUL:
   Seoul Semiconductor RGB LED in 3.5x2.8mm housing (SFT825N-S)
