@@ -7,6 +7,23 @@ This is a collection of electronic device symbols and footprints for `KiCad <htt
 **This branch is for NEWER versions of KiCAD which use mm as internal units instead of deci-mills.**
 For older versions checkout branch ``deci-mills``
 
+By default you clone the ``master`` branch. If you want the ``deci-mills`` branch, do one of the following:
+
+1) clone the branch that you want directly (e.g. when you clone the repo for the first time):
+
+.. code-block:: bash
+   
+   git clone -b deci-mills https://github.com/open-project/kicadlibrary.git
+
+2) clone the master branch and then switch to the branch you want (e.g. when you have cloned the repo before):
+
+.. code-block:: bash
+
+   git clone https://github.com/open-project/kicadlibrary.git
+   cd kicadlibrary
+   git checkout deci-mills
+   git pull
+
 Device Part List
 ----------------
 :AP1117:
