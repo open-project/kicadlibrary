@@ -55,6 +55,10 @@ Device Part List
   LDO linear voltage regulator
   (`datasheet <http://www.onsemi.com/pub/Collateral/MC33375-D.PDF>`__)
 
+:MCP1826S:
+  LDO linear voltage regulator
+  (`datasheet <http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf>`__)
+
 :MCP73831:
   single-cell Li-polymer charge management controller
   (`datasheet <http://ww1.microchip.com/downloads/en/DeviceDoc/21984e.pdf>`__)
