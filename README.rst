@@ -129,6 +129,10 @@ Footprint List
   ceramic SMD ultra miniature quarz crystal (Abracon ABM3C series)
   (`datasheet <http://www.abracon.com/Resonators/abm3c.pdf>`__)
 
+:CRYSTAL_CTS445:
+  ceramic SMD ultra miniature quarz crystal (CTS Model 445)
+  (`datasheet <http://www.ctscorp.com/components/Datasheets/008-0360-0.pdf>`__)
+
 :DIP-18__600:
   Dual inline package with 18 pins and 600mil spacing
 
