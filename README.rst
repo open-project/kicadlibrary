@@ -70,6 +70,10 @@ Device Part List
   photoresistor
   (`datasheet <http://www.mouser.com/catalog/specsheets/VT900S.pdf>`__)
 
+:QMATRIX_SENSOR:
+  touch sensor for ATMEL QMatrix
+  (`reference <http://www.atmel.com/products/touchsolutions/bsw/qmatrix.aspx>`__)
+
 :RGB_LED_AVAGO:
   Avago RGB LED (e.g. ASMT-YTB2-0BB02)
   (`datasheet <http://www.avagotech.com/docs/AV02-2583EN>`__)
