@@ -139,6 +139,9 @@ Footprint List
 :DIP-6__600:
   Dual inline package with 6 pins and 600mil spacing
 
+:DIP-6__600_ELL:
+  Dual inline package with 6 pins and 600mil spacing and oval pads
+
 :MICRO-B_USB:
   micro-B USB connector
   (`datasheet <http://www.mouser.com/catalog/specsheets/10118192AC.pdf>`__)
