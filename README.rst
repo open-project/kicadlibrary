@@ -55,6 +55,10 @@ Device Part List
   LDO linear voltage regulator
   (`datasheet <http://www.onsemi.com/pub/Collateral/MC33375-D.PDF>`__)
 
+:MCP1802:
+  tiny LDO linear voltage regulator with SOT23-5 footprint
+  (`datasheet <http://www.microchip.com/wwwproducts/Devices.aspx?dDocName=en530837>`__)
+
 :MCP1826S:
   LDO linear voltage regulator
   (`datasheet <http://ww1.microchip.com/downloads/en/DeviceDoc/22057B.pdf>`__)

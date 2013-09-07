@@ -1,4 +1,4 @@
-EESchema-DOCLIB  Version 2.0  Date: Thu 28 Mar 2013 02:49:28 PM CET
+EESchema-DOCLIB  Version 2.0  Date: Mon 29 Jul 2013 11:43:55 PM CEST
 #
 $CMP AP1117
 D LDO linear regulator
@@ -26,6 +26,10 @@ D real time clock
 $ENDCMP
 #
 $CMP MC33375
+D LDO linear regulator
+$ENDCMP
+#
+$CMP MCP1802
 D LDO linear regulator
 $ENDCMP
 #
