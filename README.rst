@@ -1,8 +1,8 @@
 ==================================================
-open-project.ch KiCad device and footprint library
+bytelabs.ch KiCad device and footprint library
 ==================================================
 
-This is a collection of electronic device symbols and footprints for `KiCad <http://www.kicad-pcb.org>`_ which is used by `open-project.ch <http://open-project.ch>`_
+This is a collection of electronic device symbols and footprints for `KiCad <http://www.kicad-pcb.org>`_ which is used by `bytelabs.ch <http://bytelabs.ch>`_
 
 **This branch is for NEWER versions of KiCAD which use mm as internal units instead of deci-mills.**
 For older versions checkout branch ``deci-mills``
@@ -219,7 +219,7 @@ Device Design Rules
 
 License
 -------
-This library was made by <tobs@open-project.ch>. As long as you retain this notice you can do whatever you want with this library. If you find it useful, I would be happy to hear from you.
+This library was made by <tobs@bytelabs.ch>. As long as you retain this notice you can do whatever you want with this library. If you find it useful, I would be happy to hear from you.
 
 Disclaimer
 ----------
@@ -227,7 +227,7 @@ THE LIBRARY IS PROVIDED "AS IS", WITHOUT WARRANTY OF ANY KIND, EXPRESS OR IMPLIE
 
 Author
 ---------
-Tobias Schmidt <tobs@open-project.ch>
+Tobias Schmidt <tobs@bytelabs.ch>
 
 .. image:: https://cruel-carlota.pagodabox.com/06d05d1336f778f581a2ff80b5ba55a7
     :alt: githalytics.com
