@@ -229,7 +229,7 @@ Author
 ---------
 Tobias Schmidt <tobs@bytelabs.ch>
 
-.. image:: https://cruel-carlota.pagodabox.com/06d05d1336f778f581a2ff80b5ba55a7
+.. image:: https://cruel-carlota.gopagoda.com/54160bb33b16e558258343a1807422ff
     :alt: githalytics.com
     :target: http://githalytics.com/open-project/kicadlibrary
 
